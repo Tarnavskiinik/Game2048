@@ -1,0 +1,17 @@
+*{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#board{
+  margin-top: 100px;
+  width: 100%;
+}
+#board table{
+  margin: 0 auto;
+}
+#board td{
+  width: 150px;
+  height: 150px;
+  background-color: #776e65;
+  font-size: 100px;
+  text-align: center;
+}
